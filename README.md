@@ -29,4 +29,4 @@ I bridge the gap between traditional enterprise architecture and bleeding-edge t
 
 ---
 
-[🌐 Portfolio](https://www.lucianbota.com/) • [Email Me](mailto:your-email@example.com) • [LinkedIn](https://www.linkedin.com/in/your-profile)
+[🌐 Portfolio](https://www.lucianbota.com/) • [Email Me](mailto:contact@lucianbota.com) • [LinkedIn](https://www.linkedin.com/in/lucian-bota)
